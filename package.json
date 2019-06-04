@@ -1,0 +1,13 @@
+{
+    "name": "raspi-dashboard",
+    "version": "1.0.0",
+    "description": "A simple and customisable realtime dashboard for your Raspberry Pi in your browser",
+    "dependencies": {
+        "async": "0.2.x",
+        "express": "4.0.x",
+        "socket.io": "0.9.x"
+    },
+    "engines": {
+        "node": ">=0.10"
+    }
+}
