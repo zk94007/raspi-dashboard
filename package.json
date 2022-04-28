@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "A simple and customisable realtime dashboard for your Raspberry Pi in your browser",
     "dependencies": {
-        "async": "0.2.x",
+        "async": "2.6.x",
         "express": "4.0.x",
         "socket.io": "0.9.x"
     },
